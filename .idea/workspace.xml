@@ -32,7 +32,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python tests.Nosetests in test_auto_drive.py">
+  <component name="RunManager" selected="Python.lane_detector">
     <configuration name="Cones_lane_detector" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="notebook" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -128,8 +128,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python tests.Nosetests in test_auto_drive.py" />
         <item itemvalue="Python.lane_detector" />
+        <item itemvalue="Python tests.Nosetests in test_auto_drive.py" />
         <item itemvalue="Python.Cones_lane_detector" />
         <item itemvalue="Python tests.Nosetests in test_auto_drive - Copy.py" />
         <item itemvalue="Python.Untitled" />

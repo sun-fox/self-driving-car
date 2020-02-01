@@ -76,7 +76,7 @@ def average_slope_intercept(image,lines):
 
 
 # video section
-cap = cv2.VideoCapture("t1.mp4")
+cap = cv2.VideoCapture("./videos/testvideo.mp4")
 while(cap.isOpened()):
     _, frame = cap.read()
     canny_image = canny(frame)
